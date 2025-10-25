@@ -1,7 +1,6 @@
-package ru.house.shirkova.a.s;
+package ru.house.shirkova.a.s.DrawObjects;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class DrawingFrame extends JFrame {
     private final int WIDTH = 1400;

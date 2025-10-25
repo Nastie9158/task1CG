@@ -1,5 +1,7 @@
 package ru.house.shirkova.a.s;
 
+import ru.house.shirkova.a.s.DrawObjects.DrawingFrame;
+
 import javax.swing.*;
 
 public class Main {

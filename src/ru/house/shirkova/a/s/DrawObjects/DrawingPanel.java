@@ -1,4 +1,6 @@
-package ru.house.shirkova.a.s;
+package ru.house.shirkova.a.s.DrawObjects;
+
+import ru.house.shirkova.a.s.Objects.*;
 
 import javax.swing.*;
 import java.awt.*;

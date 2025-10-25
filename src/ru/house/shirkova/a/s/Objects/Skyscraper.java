@@ -1,4 +1,4 @@
-package ru.house.shirkova.a.s;
+package ru.house.shirkova.a.s.Objects;
 
 import java.awt.*;
 import java.util.Random;
